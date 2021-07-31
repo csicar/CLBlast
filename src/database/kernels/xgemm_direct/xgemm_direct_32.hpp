@@ -110,8 +110,9 @@ const DatabaseEntry XgemmDirectSingle = {
           { Name{"GeForce GTX 1070 Ti                               "}, Params{ 2, 16, 8, 8, 8, 1, 1, 1, 2, 32, 0, 0, 0, 0, 0, 0 } },
           { Name{"GeForce GTX 1080                                  "}, Params{ 16, 16, 8, 16, 8, 1, 1, 1, 1, 32, 0, 0, 0, 0, 0, 0 } },
           { Name{"GeForce GTX 1080 Ti                               "}, Params{ 16, 8, 8, 16, 16, 1, 1, 1, 1, 32, 0, 0, 0, 0, 0, 0 } },
+          { Name{"NVIDIA GeForce GTX 1060 6GB                       "}, Params{ 2, 8, 8, 8, 8, 1, 1, 4, 1, 32, 0, 0, 0, 0, 0, 0 } },
           { Name{"TITAN X (Pascal)                                  "}, Params{ 8, 32, 8, 8, 16, 1, 1, 1, 1, 32, 0, 0, 0, 0, 0, 0 } },
-          { kDeviceNameDefault                                        , Params{ 2, 8, 8, 8, 8, 1, 1, 4, 2, 32, 0, 0, 0, 0, 0, 0 } },
+          { kDeviceNameDefault                                        , Params{ 2, 8, 8, 8, 8, 1, 1, 4, 1, 32, 0, 0, 0, 0, 0, 0 } },
         } },
         { "SM7.5", {
           { Name{"TITAN RTX                                         "}, Params{ 16, 8, 16, 32, 8, 1, 0, 1, 1, 32, 0, 0, 0, 0, 0, 0 } },

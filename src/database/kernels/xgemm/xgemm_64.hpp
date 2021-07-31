@@ -133,6 +133,7 @@ const DatabaseEntry XgemmDouble = {
           { Name{"GeForce GTX 1070 Ti                               "}, Params{ 0, 1, 32, 2, 8, 8, 32, 16, 16, 32, 0, 0, 0, 0, 1, 2 } },
           { Name{"GeForce GTX 1080                                  "}, Params{ 0, 1, 32, 2, 16, 16, 32, 16, 16, 64, 0, 0, 0, 0, 2, 4 } },
           { Name{"GeForce GTX 1080 Ti                               "}, Params{ 0, 1, 16, 2, 16, 16, 16, 16, 16, 64, 0, 0, 1, 0, 1, 4 } },
+          { Name{"NVIDIA GeForce GTX 1060 6GB                       "}, Params{ 0, 1, 32, 2, 8, 8, 16, 16, 16, 32, 0, 0, 0, 0, 2, 2 } },
           { Name{"TITAN X (Pascal)                                  "}, Params{ 0, 1, 32, 2, 32, 32, 32, 16, 16, 32, 0, 0, 0, 0, 1, 2 } },
           { kDeviceNameDefault                                        , Params{ 0, 1, 32, 2, 16, 16, 32, 16, 16, 64, 0, 0, 0, 0, 2, 4 } },
         } },
